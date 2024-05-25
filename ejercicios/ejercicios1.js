@@ -4,7 +4,7 @@ function verificar_si_es_vocal(params) {
     // 1. Se debe retornar true cuando el parametro sea una vocal
     // 2. Si el parametro es una consonante debe retornar false
     // 3. Si el parametro incresado es un numero debe retornar 'Lo sentimos pero solo puedes incresar letras'
-
+    
 }
 
 function entrar_en_la_discoteca(params) {
