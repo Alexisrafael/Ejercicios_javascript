@@ -22,5 +22,4 @@ function multiplica_dos_numeros_sin_usar_el_operador_matematico(num1, num2) {
     
 }
 
-
 module.exports = {verificar_si_es_vocal, entrar_en_la_discoteca, multiplica_dos_numeros_sin_usar_el_operador_matematico }
