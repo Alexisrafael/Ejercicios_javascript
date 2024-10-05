@@ -34,13 +34,6 @@ console.log(marca)
 
 
 
-
-
-
-
-
-
-
 //// Tipos de variables. ///
 
         // VAR
