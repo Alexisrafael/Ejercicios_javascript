@@ -16,7 +16,7 @@ let color = 'verde'
 const marca = [{marca: 'toyota', modelo: 'txl'}, {marca: 'toyota', modelo: ''}]
 console.log(marca)
 marca[1].modelo = 'corola'
-console.log(marca)
+console.log(marca) 
 
 
 
