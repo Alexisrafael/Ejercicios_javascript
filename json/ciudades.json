@@ -1,0 +1,137 @@
+    [
+        {
+            "name": "Argentina",
+            "cities": [
+                { "name": "Buenos Aires", "population": 3075646, "area_km2": 203, "altitude_m": 25 },
+                { "name": "Córdoba", "population": 1391000, "area_km2": 576, "altitude_m": 352 },
+                { "name": "Rosario", "population": 1236000, "area_km2": 178, "altitude_m": 31 },
+                { "name": "Mendoza", "population": 1150412, "area_km2": 54, "altitude_m": 746 },
+                { "name": "La Plata", "population": 876016, "area_km2": 940, "altitude_m": 9 },
+                { "name": "Mar del Plata", "population": 593337, "area_km2": 79, "altitude_m": 38 },
+                { "name": "San Miguel de Tucumán", "population": 527607, "area_km2": 90, "altitude_m": 431 },
+                { "name": "Salta", "population": 617638, "area_km2": 60, "altitude_m": 1187 },
+                { "name": "Santa Fe", "population": 391231, "area_km2": 268, "altitude_m": 25 },
+                { "name": "San Juan", "population": 471389, "area_km2": 30, "altitude_m": 650 }
+            ]
+        },
+        {
+            "name": "Brazil",
+            "cities": [
+                { "name": "São Paulo", "population": 12325232, "area_km2": 1521, "altitude_m": 760 },
+                { "name": "Rio de Janeiro", "population": 6775561, "area_km2": 1182, "altitude_m": 2 },
+                { "name": "Brasília", "population": 3055149, "area_km2": 5802, "altitude_m": 1172 },
+                { "name": "Salvador", "population": 2886698, "area_km2": 693, "altitude_m": 8 },
+                { "name": "Fortaleza", "population": 2686612, "area_km2": 313, "altitude_m": 21 },
+                { "name": "Belo Horizonte", "population": 2523794, "area_km2": 330, "altitude_m": 852 },
+                { "name": "Manaus", "population": 2182763, "area_km2": 11401, "altitude_m": 92 },
+                { "name": "Curitiba", "population": 1963726, "area_km2": 434, "altitude_m": 934 },
+                { "name": "Recife", "population": 1653461, "area_km2": 218, "altitude_m": 4 },
+                { "name": "Porto Alegre", "population": 1492530, "area_km2": 496, "altitude_m": 10 }
+            ]
+        },
+        {
+            "name": "Chile",
+            "cities": [
+                { "name": "Santiago", "population": 5611000, "area_km2": 641, "altitude_m": 570 },
+                { "name": "Valparaíso", "population": 967024, "area_km2": 401, "altitude_m": 10 },
+                { "name": "Concepción", "population": 1031361, "area_km2": 221, "altitude_m": 12 },
+                { "name": "La Serena", "population": 735965, "area_km2": 1890, "altitude_m": 28 },
+                { "name": "Antofagasta", "population": 402668, "area_km2": 307, "altitude_m": 40 },
+                { "name": "Temuco", "population": 277000, "area_km2": 232, "altitude_m": 120 },
+                { "name": "Iquique", "population": 191468, "area_km2": 2240, "altitude_m": 1 },
+                { "name": "Rancagua", "population": 256091, "area_km2": 260, "altitude_m": 572 },
+                { "name": "Arica", "population": 226068, "area_km2": 4799, "altitude_m": 3 },
+                { "name": "Puerto Montt", "population": 245902, "area_km2": 1673, "altitude_m": 14 }
+            ]
+        },
+        {
+            "name": "Colombia",
+            "cities": [
+                { "name": "Bogotá", "population": 7743955, "area_km2": 1587, "altitude_m": 2640 },
+                { "name": "Medellín", "population": 2569000, "area_km2": 382, "altitude_m": 1495 },
+                { "name": "Cali", "population": 2221219, "area_km2": 618, "altitude_m": 1002 },
+                { "name": "Barranquilla", "population": 1268757, "area_km2": 166, "altitude_m": 18 },
+                { "name": "Cartagena", "population": 1033476, "area_km2": 709, "altitude_m": 2 },
+                { "name": "Bucaramanga", "population": 581130, "area_km2": 165, "altitude_m": 959 },
+                { "name": "Pereira", "population": 489917, "area_km2": 702, "altitude_m": 1411 },
+                { "name": "Santa Marta", "population": 499192, "area_km2": 2393, "altitude_m": 6 },
+                { "name": "Cúcuta", "population": 755000, "area_km2": 1176, "altitude_m": 320 },
+                { "name": "Manizales", "population": 434403, "area_km2": 508, "altitude_m": 2150 }
+            ]
+        },
+        {
+            "name": "Peru",
+            "cities": [
+                { "name": "Lima", "population": 10018000, "area_km2": 2672, "altitude_m": 154 },
+                { "name": "Arequipa", "population": 1030000, "area_km2": 290, "altitude_m": 2335 },
+                { "name": "Trujillo", "population": 789552, "area_km2": 1, "altitude_m": 34 },
+                { "name": "Chiclayo", "population": 574408, "area_km2": 174, "altitude_m": 27 },
+                { "name": "Iquitos", "population": 479866, "area_km2": 368, "altitude_m": 106 },
+                { "name": "Cusco", "population": 428450, "area_km2": 385, "altitude_m": 3399 },
+                { "name": "Huancayo", "population": 545615, "area_km2": 357, "altitude_m": 3259 },
+                { "name": "Piura", "population": 484000, "area_km2": 621, "altitude_m": 29 },
+                { "name": "Tacna", "population": 293000, "area_km2": 803, "altitude_m": 562 },
+                { "name": "Puno", "population": 149064, "area_km2": 67, "altitude_m": 3827 }
+            ]
+        },
+        {
+            "name": "Venezuela",
+            "cities": [
+                { "name": "Caracas", "population": 1943901, "area_km2": 777, "altitude_m": 900 },
+                { "name": "Maracaibo", "population": 1653000, "area_km2": 557, "altitude_m": 6 },
+                { "name": "Valencia", "population": 901639, "area_km2": 640, "altitude_m": 520 },
+                { "name": "Barquisimeto", "population": 1060000, "area_km2": 276, "altitude_m": 566 },
+                { "name": "Ciudad Guayana", "population": 1040000, "area_km2": 3212, "altitude_m": 15 },
+                { "name": "Barcelona", "population": 448016, "area_km2": 1443, "altitude_m": 10 },
+                { "name": "San Cristóbal", "population": 645786, "area_km2": 247, "altitude_m": 860 },
+                { "name": "Puerto la Cruz", "population": 370000, "area_km2": 244, "altitude_m": 5 },
+                { "name": "Maturín", "population": 594284, "area_km2": 13000, "altitude_m": 67 },
+                { "name": "Cumaná", "population": 423546, "area_km2": 760, "altitude_m": 43 }
+            ]
+        },
+        {
+            "name": "Ecuador",
+            "cities": [
+                { "name": "Quito", "population": 2011388, "area_km2": 324, "altitude_m": 2850 },
+                { "name": "Guayaquil", "population": 2723660, "area_km2": 344, "altitude_m": 4 },
+                { "name": "Cuenca", "population": 400000, "area_km2": 70, "altitude_m": 2530 },
+                { "name": "Santo Domingo", "population": 305632, "area_km2": 376, "altitude_m": 554 },
+                { "name": "Machala", "population": 245972, "area_km2": 46, "altitude_m": 6 },
+                { "name": "Ambato", "population": 165185, "area_km2": 59, "altitude_m": 2577 },
+                { "name": "Manta", "population": 217553, "area_km2": 60, "altitude_m": 16 },
+                { "name": "Portoviejo", "population": 238694, "area_km2": 43, "altitude_m": 53 },
+                { "name": "Loja", "population": 182084, "area_km2": 285, "altitude_m": 2060 },
+                { "name": "Ibarra", "population": 139721, "area_km2": 119, "altitude_m": 2225 }
+            ]
+        },
+        {
+            "name": "Paraguay",
+            "cities": [
+                { "name": "Asunción", "population": 525294, "area_km2": 117, "altitude_m": 43 },
+                { "name": "Ciudad del Este", "population": 299231, "area_km2": 104, "altitude_m": 187 },
+                { "name": "San Lorenzo", "population": 252561, "area_km2": 56, "altitude_m": 126 },
+                { "name": "Luque", "population": 264932, "area_km2": 220, "altitude_m": 161 },
+                { "name": "Capiatá", "population": 224062, "area_km2": 94, "altitude_m": 129 },
+                { "name": "Lambaré", "population": 171115, "area_km2": 27, "altitude_m": 58 },
+                { "name": "Fernando de la Mora", "population": 165889, "area_km2": 21, "altitude_m": 132 },
+                { "name": "Limpio", "population": 154274, "area_km2": 117, "altitude_m": 84 },
+                { "name": "Ñemby", "population": 126817, "area_km2": 31, "altitude_m": 114 },
+                { "name": "Encarnación", "population": 127527, "area_km2": 81, "altitude_m": 61 }
+            ]
+        },
+        {
+            "name": "Uruguay",
+            "cities": [
+                { "name": "Montevideo", "population": 1378000, "area_km2": 201, "altitude_m": 43 },
+                { "name": "Salto", "population": 104011, "area_km2": 59, "altitude_m": 48 },
+                { "name": "Ciudad de la Costa", "population": 112449, "area_km2": 60, "altitude_m": 10 },
+                { "name": "Paysandú", "population": 76115, "area_km2": 125, "altitude_m": 35 },
+                { "name": "Las Piedras", "population": 71778, "area_km2": 49, "altitude_m": 56 },
+                { "name": "Rivera", "population": 64365, "area_km2": 576, "altitude_m": 200 },
+                { "name": "Maldonado", "population": 62380, "area_km2": 4793, "altitude_m": 20 },
+                { "name": "Tacuarembó", "population": 54104, "area_km2": 151, "altitude_m": 137 },
+                { "name": "Melo", "population": 51023, "area_km2": 120, "altitude_m": 100 },
+                { "name": "Mercedes", "population": 42362, "area_km2": 66, "altitude_m": 18 }
+            ]
+        }
+    ]
